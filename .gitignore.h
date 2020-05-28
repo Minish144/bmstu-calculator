@@ -1,2 +1,3 @@
 # app
-Calculator.app
+
+*.app
